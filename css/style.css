@@ -1,0 +1,37 @@
+body{
+    border:  2px solid black;
+    width: 500px;
+    margin: 35px auto;
+    padding: 10px;
+}
+
+label{
+    width: 90%;
+}
+
+form input[type="number"] {
+    width: 95%;
+}
+form input[type="text"] {
+    width: 95%;
+}
+form input[type="button"] {
+    text-align: center;
+}
+
+div.fields{
+    margin-bottom: 10px;
+}
+div.fields {
+    margin-bottom: 10px;
+}
+div.login{
+    text-align: center;
+}
+
+span.error{
+    color:  red;
+}
+span.hide {
+    display: none;
+}
